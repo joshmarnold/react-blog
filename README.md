@@ -1,4 +1,4 @@
-# react-youtube-search-display
+# react-blog
 
 ### Getting Started
 
